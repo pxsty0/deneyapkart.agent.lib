@@ -1,1 +1,1 @@
-// Deneyap Kart Agent & IDE Orneklerinin Bulunduğu Kütüphane
+// Deneyap Kart IDE Orneklerinin Bulunduğu Kütüphane
